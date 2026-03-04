@@ -675,7 +675,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { PARTICIPANTS as initialParticipants } from "./assets/participants.js";
 import ParticipantTable from './components/ParticipantTable';
-import Leaderboard from './components/Leaderboard';
+import Leaderboard from './components/Leaderboard.jsx';
 import * as XLSX from 'xlsx';
 import ParticipantResultsEditor from "./components/ParticipantResultsEditor";
 import { getTotals, determineGender, migrateOldData } from './utils/compareParticipants.js';
