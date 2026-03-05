@@ -323,9 +323,10 @@ function ParticipantResultsEditor({ allParticipants, currentSetParticipants, res
                         </div>
                     )}
 
-                    <table border="1" cellPadding="8" style={{ borderCollapse: 'collapse', width: '100%' }}>
+                    <table border="1" cellPadding="8" style={{ borderCollapse: 'collapse', width: '100%',
+                        backgroundColor: 'black', color: 'white'  }}>
                         <thead>
-                        <tr style={{ backgroundColor: '#f3f4f6' }}>
+                        <tr style={{ backgroundColor: 'black' }}>
                             <th style={{ textAlign: 'left', fontWeight: 'bold' }}>Трасса</th>
                             <th style={{ textAlign: 'center', fontWeight: 'bold' }}>Zone1</th>
                             <th style={{ textAlign: 'center', fontWeight: 'bold' }}>Zone2</th>
@@ -341,7 +342,7 @@ function ParticipantResultsEditor({ allParticipants, currentSetParticipants, res
 
                             return (
                                 <tr key={i} style={{
-                                    backgroundColor: !isValid ? '#fef2f2' : (i % 2 === 0 ? '#f9fafb' : 'white')
+                                    backgroundColor: !isValid ? 'black' : (i % 2 === 0 ? 'black' : 'black')
                                 }}>
                                     <td style={{ fontWeight: 'bold' }}>Трасса {i + 1}</td>
                                     <td>
@@ -401,7 +402,7 @@ function ParticipantResultsEditor({ allParticipants, currentSetParticipants, res
                         })}
                         </tbody>
                         <tfoot>
-                        <tr style={{ fontWeight: 'bold', backgroundColor: '#f0f0f0' }}>
+                        <tr style={{ fontWeight: 'bold', backgroundColor: 'black' }}>
                             <td>Итого</td>
                             <td style={{ textAlign: 'center' }}>{totals?.zone1 || 0}</td>
                             <td style={{ textAlign: 'center' }}>{totals?.zone2 || 0}</td>
