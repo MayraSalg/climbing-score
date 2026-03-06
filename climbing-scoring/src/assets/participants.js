@@ -6,7 +6,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 395,
@@ -15,7 +16,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Лига Капитана",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 455,
@@ -24,7 +26,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 476,
@@ -33,7 +36,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sloths",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 378,
@@ -42,7 +46,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 391,
@@ -51,7 +56,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 369,
@@ -60,7 +66,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Salamanders",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "female"
   },
   {
     "id": 385,
@@ -69,7 +76,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 370,
@@ -78,7 +86,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 371,
@@ -87,7 +96,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 386,
@@ -96,7 +106,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Climb Art",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 392,
@@ -105,7 +116,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 379,
@@ -114,7 +126,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Демахина Л. В.Climbart",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 414,
@@ -123,7 +136,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sloths",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 396,
@@ -132,16 +146,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Демахина Любовь",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 400,
-    "first_name": "Павлов Михаил Александрович",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Shers team",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 403,
@@ -150,7 +156,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Балтийский берег ",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 407,
@@ -159,7 +166,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Взрывные котята",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 412,
@@ -168,7 +176,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 411,
@@ -177,7 +186,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Осьмирук ",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 404,
@@ -186,7 +196,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Sher's team",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 373,
@@ -195,7 +206,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 382,
@@ -204,7 +216,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Демахина Люба)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 387,
@@ -213,7 +226,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Неолит ",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 397,
@@ -222,7 +236,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Shers team",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 401,
@@ -231,7 +246,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 380,
@@ -240,7 +256,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 374,
@@ -249,7 +266,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 375,
@@ -258,7 +276,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 381,
@@ -267,7 +286,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Демахина Люба)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 388,
@@ -276,7 +296,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 398,
@@ -285,7 +306,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 423,
@@ -294,7 +316,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Salamanders",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 383,
@@ -303,7 +326,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 389,
@@ -312,7 +336,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
+  },
+  {
+    "id": 425,
+    "first_name": "Свистунова Дарья Александровна",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "NorthFolks",
+    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 394,
@@ -321,16 +356,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
-    "id": 417,
-    "first_name": "Терских Артём Михайлович",
+    "id": 408,
+    "first_name": "Егоров Максим Арсеньевич ",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "-",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "team": "NorthFolks",
+    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 413,
@@ -339,7 +376,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 399,
@@ -348,259 +386,28 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Climb Art (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 402,
-    "first_name": "Воронкова Ярослава Павловна",
+    "first_name": "Воронкова Ярослава Павлововна",
     "last_name": "",
     "group": "Спортсмены",
     "team": "Балтийский берег/Неолит",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
-    "id": 405,
-    "first_name": "Чистяков Макар Иванович",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "Балтийский берег",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 406,
-    "first_name": "Веровенко Ярослава Валентиновна",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "ClimbArt",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 408,
-    "first_name": "Егоров Максим Арсеньевич ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Нет",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 376,
-    "first_name": "Ахватова Юна Максимовна ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt (OlclimbTeam)",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 409,
-    "first_name": "Нёма Родион Дмитриевич ",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "ClimbArt",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 410,
-    "first_name": "Сулин Эол Андреевич",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 433,
-    "first_name": "Васильева Мария Артемовна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Sloths",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 427,
-    "first_name": "Леонтьева Олеся Романовна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 420,
-    "first_name": "Фомина Оля Антоновна",
+    "id": 423,
+    "first_name": "Сокун Софья Дмитриевнс",
     "last_name": "",
     "group": "Общий зачет",
     "team": "Salamanders",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 430,
-    "first_name": "Ярославцев Евгений Максимович",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "Неолит",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 419,
-    "first_name": "Лимаренко Павел Юрьевич",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 418,
-    "first_name": "Долгобородова Агата Михайловна",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "Sloths",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 422,
-    "first_name": "Чаплинская Василиса Михайловна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 425,
-    "first_name": "Свистунова Дарья Александровна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "-",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 426,
-    "first_name": "Сасим Сергей Юрьевич ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 421,
-    "first_name": "Степанова Алекса Дмитриевна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Salamanders",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 429,
-    "first_name": "Топталова Анастасия Евгеньевна ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 424,
-    "first_name": "Курилова Мирослава Олеговна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt (Скалолазная детвора)",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 431,
-    "first_name": "Ситникова Вероника Георгиевна ",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "Sbor",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 436,
-    "first_name": "Пономаренко Наталья Вадимовна ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 435,
-    "first_name": "Морозова Мария Евгеньевна ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Академия \"Чемпион\"",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 428,
-    "first_name": "Галеев Тимур Алексеевич",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "ClimbArt",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 415,
-    "first_name": "Жданова Диана Михайловна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Sloths",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 434,
-    "first_name": "Васильева Мария Артемовна ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Sloths",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 439,
-    "first_name": "Стяжкина Алёна Андреевна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Sloths",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 438,
-    "first_name": "Красильников Георгий Романович",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "Северная Стена",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 442,
-    "first_name": "Колесникова Валентина Станиславовна",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Скалолазная детвора ",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 521,
@@ -609,7 +416,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Шептало О.С.)",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 384,
@@ -618,7 +426,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 444,
@@ -627,7 +436,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Sher's team ",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 462,
@@ -636,7 +446,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Активити",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 447,
@@ -645,16 +456,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Комета",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 451,
-    "first_name": "Алякринский Василий",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Неолит ",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 470,
@@ -663,7 +466,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Level up",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 456,
@@ -672,7 +476,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Salamanders",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 443,
@@ -681,7 +486,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Sher's team ",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 454,
@@ -690,7 +496,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 503,
+    "first_name": "Рябцева Валерия",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "NorthFolks",
+    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 452,
@@ -699,7 +516,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "СШОР \" Комета\"",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 440,
@@ -708,7 +526,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 449,
@@ -717,7 +536,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Балтийский берег ",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 450,
@@ -726,7 +546,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 457,
@@ -735,7 +556,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Activity ",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 458,
@@ -744,7 +566,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Активити",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "female"
   },
   {
     "id": 459,
@@ -753,7 +576,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Клуб \"Мазила\" г.Кириши",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 460,
@@ -762,7 +586,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Climb Art",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 463,
@@ -771,7 +596,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Активити ",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 461,
@@ -780,7 +606,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ЛУЧ",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 467,
@@ -789,7 +616,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Level up, Восьмёрка",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 464,
@@ -797,8 +625,9 @@ export const PARTICIPANTS = [
     "last_name": "",
     "group": "Общий зачет",
     "team": "Активити",
-    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "set": "1 сет 07 сеть 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 465,
@@ -807,7 +636,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Активити",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 469,
@@ -816,7 +646,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 466,
@@ -825,7 +656,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Спас",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 448,
@@ -834,7 +666,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "female"
   },
   {
     "id": 471,
@@ -843,7 +676,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 472,
@@ -852,7 +686,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Луч",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 473,
@@ -861,7 +696,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sloths",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 474,
@@ -870,7 +706,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Луч",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 441,
@@ -879,16 +716,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
-    "id": 475,
-    "first_name": "Нестеров Пётр Антонович",
+    "id": 568,
+    "first_name": "Банщикова Мира Дмитриевна",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "Северная стена",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "team": "",
+    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 453,
@@ -897,16 +736,28 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Дроконы",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
-    "id": 503,
-    "first_name": "Рябцева Валерия",
+    "id": 475,
+    "first_name": "Нестеров Пётр Антонович",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "-",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "team": "NorthFolks",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 574,
+    "first_name": "Манюк ",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Salamanders",
+    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
+    "is_paid": true,
+    "gender": "unknown"
   },
   {
     "id": 445,
@@ -915,16 +766,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Скалолазная детвора)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 488,
-    "first_name": "Томарук Мила Тарасовна",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "Балтийский Берег",
-    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": false
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 477,
@@ -933,16 +776,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Клуб \"Мазила\" г.Кириши",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
-    "id": 478,
-    "first_name": "Платонов Дмитрий Алексеевич",
+    "id": 505,
+    "first_name": "Науменко Алиса Ильинична ",
     "last_name": "",
     "group": "Общий зачет",
-    "team": ". ",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "team": "NorthFolks",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 479,
@@ -951,7 +796,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Активити",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 496,
@@ -960,7 +806,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Г. Кириши",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 481,
@@ -969,16 +816,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Лига Капитана ",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
-    "id": 482,
-    "first_name": "Петрова Анна Максимовна",
+    "id": 478,
+    "first_name": "Платонов Дмитрий Алексеевич",
     "last_name": "",
-    "group": "Спортсмены",
-    "team": "Climbart",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "group": "Общий зачет",
+    "team": "Шептало",
+    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 508,
@@ -987,7 +836,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Комета",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 483,
@@ -996,7 +846,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ЛУЧ",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 491,
@@ -1005,7 +856,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Climbart (Скалолазная детвора)",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 490,
@@ -1014,7 +866,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Olclimb team",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 485,
@@ -1023,7 +876,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Чемпион",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
+  },
+  {
+    "id": 482,
+    "first_name": "Петрова Анна Максимовна",
+    "last_name": "",
+    "group": "Спортсмены",
+    "team": "Climbart",
+    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 486,
@@ -1032,7 +896,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Чемпион",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 484,
@@ -1041,7 +906,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sloths ",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 492,
@@ -1050,7 +916,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 493,
@@ -1059,25 +926,28 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора ClimbArt",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 497,
-    "first_name": "Иванов Дмитрий Алексеевич",
+    "first_name": "Иванов Дмитрий Aлексеевич",
     "last_name": "",
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
-    "id": 494,
-    "first_name": "Сердюк Мария Ивановна",
+    "id": 489,
+    "first_name": "Горяев Иван Васильевич",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "Скалолазная детвора",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": false
+    "team": "Любовь Демахина",
+    "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 498,
@@ -1086,7 +956,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Академия Чемпион",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 507,
@@ -1095,7 +966,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "North folks ",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 480,
@@ -1104,7 +976,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Наша",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 506,
@@ -1113,43 +986,28 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Академия Чемпион",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 502,
-    "first_name": "Сарафанова Екатерина Алексеевна ",
+    "first_name": "Сарафанова Екатерина Aлексеевна ",
     "last_name": "",
     "group": "Спортсмены",
     "team": "Балтийский берег ",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
-    "id": 504,
-    "first_name": "Чернышова Лада Егоровна",
+    "id": 494,
+    "first_name": "Сердюк Мария Ивановна",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "-",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 505,
-    "first_name": "Науменко Алиса Ильинична ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "-",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 489,
-    "first_name": "Горяев Иван Васильевич",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Любовь Демахина",
-    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "team": "Скалолазная детвора",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 487,
@@ -1158,7 +1016,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Академия чемпион",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "female"
   },
   {
     "id": 500,
@@ -1167,7 +1026,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (тренер - Шутов С.)",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 509,
@@ -1176,7 +1036,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "North Folks ",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 510,
@@ -1185,7 +1046,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
     "id": 499,
@@ -1194,7 +1056,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Академия чемпион",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 511,
@@ -1203,7 +1066,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 512,
@@ -1212,7 +1076,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Мазила-Кириши",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 525,
@@ -1221,7 +1086,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Демахина Люба ",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 513,
@@ -1230,7 +1096,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sky Rocks Энергия Высоты",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 514,
@@ -1239,7 +1106,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sky Rocks Энергия Высоты",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 515,
@@ -1248,7 +1116,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 517,
@@ -1257,7 +1126,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Sky Rocks",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 516,
@@ -1266,7 +1136,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Взрывные котята ",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 539,
@@ -1275,7 +1146,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 540,
@@ -1284,7 +1156,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 518,
@@ -1293,7 +1166,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Взрывные котята",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 527,
@@ -1302,7 +1176,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "El capitan",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 519,
@@ -1311,7 +1186,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 534,
@@ -1320,16 +1196,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 522,
-    "first_name": "Брохин Даниил Евгеньевич ",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Неолит",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": false
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 524,
@@ -1338,7 +1206,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Энергия Высоты",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 538,
@@ -1347,7 +1216,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Sher's team",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 529,
@@ -1356,7 +1226,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Митин К.И.)",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 520,
@@ -1365,16 +1236,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sher's team ",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 535,
-    "first_name": "Кондратьев Дмитрий Вячеславович",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "",
-    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 530,
@@ -1383,16 +1246,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Хитрик Ольга)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
-    "id": 531,
-    "first_name": "Виноградова Злата Денисовна",
+    "id": 547,
+    "first_name": "Аристова Валерия Сергеевна",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "Sky Rocks Энергия Высоты",
-    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": false
+    "team": "NorthFolks",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 533,
@@ -1401,7 +1266,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора ",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 532,
@@ -1410,7 +1276,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Sloths ",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 541,
@@ -1419,7 +1286,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 536,
@@ -1428,7 +1296,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Climbart ",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 526,
@@ -1437,7 +1306,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "OllclimbTeam",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 537,
@@ -1446,7 +1316,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Неолит",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 543,
@@ -1455,7 +1326,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора ",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 542,
@@ -1464,7 +1336,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 544,
@@ -1473,7 +1346,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Ани Заикиной",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 545,
@@ -1482,7 +1356,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 546,
@@ -1491,25 +1366,28 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
-    "id": 547,
-    "first_name": "Аристова Валерия Сергеевна",
+    "id": 535,
+    "first_name": "Кондратьев Дмитрий Вячеславович",
     "last_name": "",
     "group": "Общий зачет",
     "team": "",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
-    "id": 528,
-    "first_name": "Смирнов Семён Антонович ",
+    "id": 531,
+    "first_name": "Виноградова Злата Денисовна",
     "last_name": "",
-    "group": "Спортсмены",
-    "team": "Осьмирук ",
-    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "group": "Общий зачет",
+    "team": "Sky Rocks Энергия Высоты",
+    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 548,
@@ -1518,7 +1396,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Митин Константин Игоревич",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 528,
+    "first_name": "Смирнов Семён Антонович ",
+    "last_name": "",
+    "group": "Спортсмены",
+    "team": "Осьмирук ",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 549,
@@ -1527,7 +1416,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Salamanders",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 550,
@@ -1536,7 +1426,18 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "СПб ГБУ ДО СШОР \"Комета\"",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 569,
+    "first_name": "Ермаков Артемий Станиславович",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Комета",
+    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 551,
@@ -1545,7 +1446,8 @@ export const PARTICIPANTS = [
     "group": "Спортсмены",
     "team": "Балтийский берег",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 372,
@@ -1554,7 +1456,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (OlclimbTeam)",
     "set": "2 сет 07 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 562,
+    "first_name": "Зарытовский Ярослав Игоревич",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Активити",
+    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 552,
@@ -1563,7 +1476,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Salamanders",
     "set": "4 сет 08 марта 11:00 – 13:00 (Группа 9-10 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "female"
   },
   {
     "id": 553,
@@ -1572,7 +1486,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 554,
@@ -1581,7 +1496,8 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": true
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 555,
@@ -1590,43 +1506,18 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "ClimbArt (Митин К.И.)",
     "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": false
+    "is_paid": false,
+    "gender": "male"
   },
   {
-    "id": 556,
-    "first_name": "Стивкин Александр Денисович",
+    "id": 563,
+    "first_name": "Живуцкий Даниил Александрович ",
     "last_name": "",
     "group": "Общий зачет",
-    "team": "Шептало Олеся",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 557,
-    "first_name": "Стивкин Александр Денисович",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Шептало Олеся",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": false
-  },
-  {
-    "id": 558,
-    "first_name": "Стивкин Александр Денисович",
-    "last_name": "",
-    "group": "Общий зачет",
-    "team": "Шептало Олеся",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 9-10 лет)",
-    "is_paid": true
-  },
-  {
-    "id": 559,
-    "first_name": "Димон Strong ",
-    "last_name": "",
-    "group": "Спортсмены",
-    "team": "ВЫЁЖики",
-    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
-    "is_paid": false
+    "team": "Salamander",
+    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
+    "is_paid": true,
+    "gender": "male"
   },
   {
     "id": 560,
@@ -1635,6 +1526,87 @@ export const PARTICIPANTS = [
     "group": "Общий зачет",
     "team": "Скалолазная детвора",
     "set": "3 сет 07 марта 17:00 – 19:00 (Группа 7-8 лет)",
-    "is_paid": false
+    "is_paid": true,
+    "gender": "female"
+  },
+  {
+    "id": 561,
+    "first_name": "Кадегров Роберт Викторович",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Дети Севера",
+    "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 564,
+    "first_name": "Кондрашин Ваня",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "НеолитХомячки",
+    "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 571,
+    "first_name": "Сопин Иван Алексеевич ",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Salamanders",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 565,
+    "first_name": "Кондрашин Вова",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "НеолитХомячки",
+    "set": "1 сет 07 марта 11:00 – 13:00 (Группа - 4-6 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 566,
+    "first_name": "Лашкова Мария Евгеньевна",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Баранов Андрей",
+    "set": "2 сет 07 марта 14:00 – 16:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "female"
+  },
+  {
+    "id": 567,
+    "first_name": "Кузнецов Ярослав Владимирович",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Bearmood",
+    "set": "4 сет 08 марта 11:00 – 13:00 (Группа 11-12 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 559,
+    "first_name": "Димон Strong ",
+    "last_name": "",
+    "group": "Спортсмены",
+    "team": "ВЫЁЖики",
+    "set": "5 сет 08 марта 14:00 – 16:00 (Группа 13-14, 15-16 лет)",
+    "is_paid": true,
+    "gender": "male"
+  },
+  {
+    "id": 573,
+    "first_name": "Глебовский Александр Евгеньевич",
+    "last_name": "",
+    "group": "Общий зачет",
+    "team": "Climbart",
+    "set": "3 сет 07 марта 17:00 – 19:00 (Группа 13-14, 15-16 лет)",
+    "is_paid": true,
+    "gender": "male"
   }
 ]
